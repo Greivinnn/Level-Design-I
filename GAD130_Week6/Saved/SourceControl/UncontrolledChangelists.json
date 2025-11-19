@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/LASALLE SECOND YEAR/Level-Design-I/GAD130_Week6/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/41/10QLV8NBVBT6S95GXR73BQ.uasset",
+				"C:/LASALLE SECOND YEAR/Level-Design-I/GAD130_Week6/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset",
+				"C:/LASALLE SECOND YEAR/Level-Design-I/GAD130_Week6/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset",
+				"C:/LASALLE SECOND YEAR/Level-Design-I/GAD130_Week6/Content/GameLevel.umap"
+			]
+		}
+	]
+}
